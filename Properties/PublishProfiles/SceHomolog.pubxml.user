@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\172.16.7.9\c$\inetpub\wwwroot\Homolog\SCE</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>02/28/2018 16:49:33</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 07:43:40</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/22/2013 07:43:40</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>02/28/2018 16:49:33</publishTime>
+    </File>
+    <File Include="bin/App_Code.compiled">
+      <publishTime>08/16/2019 09:49:51</publishTime>
+    </File>
+    <File Include="bin/App_Code.dll">
+      <publishTime>08/16/2019 09:49:51</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>08/16/2019 11:38:33</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>08/16/2019 11:38:28</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>08/22/2013 21:09:14</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>07/16/2013 19:06:22</publishTime>
+    </File>
+    <File Include="bin/Chart.Mvc.dll">
+      <publishTime>04/15/2015 08:08:46</publishTime>
+    </File>
+    <File Include="bin/Chart.Mvc.pdb">
+      <publishTime>04/15/2015 08:08:46</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/23/2017 13:15:20</publishTime>
+    </File>
+    <File Include="bin/EntityFramework6.Npgsql.dll">
+      <publishTime>07/08/2018 15:47:40</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>12/16/2014 16:38:18</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>07/30/2013 15:57:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 01:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.DLL">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Design.DLL">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.DLL">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebDesign.DLL">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>05/29/2015 21:27:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WinForms.DLL">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>09/06/2013 10:20:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>09/06/2013 10:20:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Types.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/05/2012 11:08:46</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>02/22/2018 09:18:03</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/11/2015 19:54:54</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>07/08/2018 15:08:16</publishTime>
+    </File>
+    <File Include="bin/Npgsql.pdb">
+      <publishTime>07/08/2018 15:08:16</publishTime>
+    </File>
+    <File Include="bin/pt/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 19:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/SCE.dll">
+      <publishTime>08/16/2019 11:37:56</publishTime>
+    </File>
+    <File Include="bin/SCE.pdb">
+      <publishTime>08/16/2019 11:37:56</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>05/15/2018 13:29:42</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>05/15/2018 13:29:46</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 13:29:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/10/2013 16:28:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.SqlServer.Types.resources.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>02/28/2018 16:49:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/24/2019 13:53:58</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploExport.png">
+      <publishTime>01/29/2019 17:08:37</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploPrinter.png">
+      <publishTime>01/29/2019 17:08:37</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploPrinter02.PNG">
+      <publishTime>01/29/2019 17:02:39</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploPrinter03.PNG">
+      <publishTime>01/30/2019 11:04:20</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploPrinter04.PNG">
+      <publishTime>01/30/2019 11:04:57</publishTime>
+    </File>
+    <File Include="Content/Img/ExemploPrinter05.PNG">
+      <publishTime>01/30/2019 11:05:31</publishTime>
+    </File>
+    <File Include="Content/Img/IconIE.png">
+      <publishTime>01/30/2019 16:59:14</publishTime>
+    </File>
+    <File Include="Content/Img/IconPie.png">
+      <publishTime>08/05/2019 13:28:03</publishTime>
+    </File>
+    <File Include="Content/Img/iconsExcel.png">
+      <publishTime>05/20/2019 15:08:32</publishTime>
+    </File>
+    <File Include="Content/Img/loading.gif">
+      <publishTime>11/30/2018 13:18:24</publishTime>
+    </File>
+    <File Include="Content/Img/Loading2.gif">
+      <publishTime>11/30/2018 14:34:39</publishTime>
+    </File>
+    <File Include="Content/Js/DashBoard.js">
+      <publishTime>08/16/2019 11:26:08</publishTime>
+    </File>
+    <File Include="Content/loading.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/Loading2.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/28/2018 16:49:14</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>08/16/2019 10:51:06</publishTime>
+    </File>
+    <File Include="DashBoard.aspx">
+      <publishTime>08/16/2019 10:05:49</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/16/2019 11:12:25</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>02/28/2018 16:49:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="Form.aspx">
+      <publishTime>08/12/2019 21:48:48</publishTime>
+    </File>
+    <File Include="FormEmc.aspx">
+      <publishTime>01/31/2019 09:30:53</publishTime>
+    </File>
+    <File Include="Help.aspx">
+      <publishTime>08/06/2019 10:33:13</publishTime>
+    </File>
+    <File Include="LOG.xml">
+      <publishTime>08/08/2019 11:38:20</publishTime>
+    </File>
+    <File Include="LogSCE.aspx">
+      <publishTime>11/16/2018 13:04:51</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/07/2019 16:19:02</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/16/2019 11:38:14</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ControleClientes.rdlc">
+      <publishTime>08/12/2018 11:19:59</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/Master/Paisagem.rdlc">
+      <publishTime>08/12/2018 11:25:19</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/Master/Retrato.rdlc">
+      <publishTime>06/12/2018 09:03:23</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/PerformaceTotalCliente.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/PerformanceCliente.rdlc">
+      <publishTime>06/12/2018 10:19:20</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoArmador.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoCliente.rdlc">
+      <publishTime>06/12/2018 14:55:34</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoClienteNavio.rdlc">
+      <publishTime>08/12/2018 18:40:36</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoCommodity.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoCommodityNavio.rdlc">
+      <publishTime>07/12/2018 11:08:01</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoContainerNavio.rdlc">
+      <publishTime>10/12/2018 09:46:11</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoMensal.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoNavioCommodity.rdlc">
+      <publishTime>05/12/2018 15:06:45</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoNavioTos.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoService.rdlc">
+      <publishTime>05/12/2018 15:20:42</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/ResumoTos.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/Manifest/SummaryNavio.rdlc">
+      <publishTime>07/12/2018 09:51:58</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CarrierClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CarrierCommodity.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CarrierVassel.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ClientArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ClientCnee.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ClientSrep.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ClientSrepTotal.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CneeClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CneeShipperByPortPair.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/CommodityArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/DetailedPerClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/DetailedPerContainer.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CarrierClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CarrierCommodity.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CarrierVassel.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ClientArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ClientCnee.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ClientSrep.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CneeClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CneeShipperByPortPair.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/CommodityArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/DetailedPerClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/DetailedPerContainer.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/FollowUpReport.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ForeignPortCarrier.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ForeignPortClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/RankingCommodity.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/RankingService.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/RankingServiceByArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/ShipperCneeByPortPairs.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/StatsPerContainerArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/StatsPerContainerCarrier.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryBrazil.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryCarrier.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryClientMonth.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryCountries.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryPerDischargePort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryPorts.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryRanking.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/SummaryService.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/TotalMovementsByPort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Excel/TypeContainerForeignPort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/FollowUpReport.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ForeignPortCarrier.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ForeignPortClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Graphic.rdlc">
+      <publishTime>11/12/2018 16:08:21</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Master/Paisagem.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/Master/Retrato.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/RankingCommodity.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/RankingService.rdlc">
+      <publishTime>04/01/2019 18:06:24</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/RankingServiceByArea.rdlc">
+      <publishTime>03/12/2018 16:14:32</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/ShipperCneeByPortPairs.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/StatsPerContainerArea.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/StatsPerContainerCarrier.rdlc">
+      <publishTime>08/11/2018 21:48:14</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryArea.rdlc">
+      <publishTime>04/01/2019 18:29:11</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryBrazil.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryCarrier.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryClient.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryClientMonth.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryCountries.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryPerDischargePort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryPorts.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryRanking.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/SummaryService.rdlc">
+      <publishTime>04/01/2019 18:06:22</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/TotalMovementsByPort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReportViewer/MarketStatistics/TypeContainerForeignPort.rdlc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="sceDataSet.xsc">
+      <publishTime>05/21/2019 16:07:45</publishTime>
+    </File>
+    <File Include="sceDataSet.xss">
+      <publishTime>05/21/2019 16:07:45</publishTime>
+    </File>
+    <File Include="SCEIcon.ico">
+      <publishTime>12/19/2018 16:18:46</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.js">
+      <publishTime>02/28/2018 16:49:34</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>02/28/2018 16:49:34</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/28/2018 16:49:22</publishTime>
+    </File>
+    <File Include="Scripts/Chart.js">
+      <publishTime>01/07/2019 16:19:02</publishTime>
+    </File>
+    <File Include="Scripts/icon.png">
+      <publishTime>10/12/2018 15:19:02</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/28/2018 16:49:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/28/2018 16:49:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/28/2018 16:49:20</publishTime>
+    </File>
+    <File Include="Scripts/logEs.png">
+      <publishTime>05/03/2018 11:54:12</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/28/2018 16:49:21</publishTime>
+    </File>
+    <File Include="Scripts/pace.min.js">
+      <publishTime>11/29/2018 14:15:41</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>02/28/2018 16:49:21</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>02/28/2018 16:49:21</publishTime>
+    </File>
+    <File Include="Scripts/TESTE1.png">
+      <publishTime>10/11/2018 16:47:36</publishTime>
+    </File>
+    <File Include="Scripts/TESTE2.png">
+      <publishTime>10/11/2018 17:11:27</publishTime>
+    </File>
+    <File Include="Scripts/teste3.png">
+      <publishTime>10/12/2018 15:09:34</publishTime>
+    </File>
+    <File Include="Scripts/teste4.png">
+      <publishTime>10/12/2018 15:12:07</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>02/28/2018 16:49:23</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>08/16/2019 10:34:34</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>05/28/2019 10:32:18</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>02/28/2018 16:49:24</publishTime>
+    </File>
+    <File Include="TestaGraficos.aspx">
+      <publishTime>08/14/2019 21:30:13</publishTime>
+    </File>
+    <File Include="TI/bkpHTML/ResultadoGridSemTabela.txt">
+      <publishTime>08/09/2019 15:43:07</publishTime>
+    </File>
+    <File Include="TI/bkpHTML/ResultadoGridTabela.txt">
+      <publishTime>08/09/2019 15:43:54</publishTime>
+    </File>
+    <File Include="TI/Consulta.aspx">
+      <publishTime>02/26/2019 13:41:33</publishTime>
+    </File>
+    <File Include="TI/Default.aspx">
+      <publishTime>02/04/2019 09:39:11</publishTime>
+    </File>
+    <File Include="TI/Legends.aspx">
+      <publishTime>03/06/2019 16:51:34</publishTime>
+    </File>
+    <File Include="TI/Legends.html">
+      <publishTime>03/06/2019 16:59:16</publishTime>
+    </File>
+    <File Include="TI/Log.aspx">
+      <publishTime>02/11/2019 17:23:47</publishTime>
+    </File>
+    <File Include="TI/LogM.aspx">
+      <publishTime>02/11/2019 17:25:54</publishTime>
+    </File>
+    <File Include="TI/LogMovi.xml">
+      <publishTime>08/16/2019 11:27:29</publishTime>
+    </File>
+    <File Include="TI/Ti.Master">
+      <publishTime>02/26/2019 13:04:37</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>02/28/2018 16:49:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/16/2019 11:38:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

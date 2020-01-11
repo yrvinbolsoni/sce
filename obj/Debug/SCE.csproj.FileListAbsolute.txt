@@ -1,0 +1,345 @@
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\ApplicationInsights.config
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\csc.exe
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\vbc.exe
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\VBCSCompiler.exe
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\SCE.dll.config
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\SCE.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\SCE.pdb
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Antlr3.Runtime.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\itextsharp.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.Web.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.ApplicationInsights.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Mono.Security.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Newtonsoft.Json.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Npgsql.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Web.Optimization.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\WebGrease.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.Web.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.ApplicationInsights.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Web.Optimization.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Antlr3.Runtime.pdb
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Newtonsoft.Json.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.csprojResolveAssemblyReference.cache
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.dll
+c:\users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.pdb
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.ValueTuple.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Npgsql.pdb
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Npgsql.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\System.ValueTuple.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework.SqlServer.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework6.Npgsql.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework.SqlServer.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\EntityFramework6.Npgsql.xml
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\Microsoft.SqlServer.Types.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\RdlCompile.cache
+C:\Users\yrvinb\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\RdlCompile.compiled
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\ApplicationInsights.config
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\csc.exe
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\vbc.exe
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\SCE.dll.config
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\SCE.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\SCE.pdb
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Antlr3.Runtime.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework.SqlServer.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework6.Npgsql.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\itextsharp.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.Web.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Newtonsoft.Json.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Npgsql.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.ValueTuple.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Optimization.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\WebGrease.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.SqlServer.Types.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework.SqlServer.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\EntityFramework6.Npgsql.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.Web.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Npgsql.pdb
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Npgsql.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.ValueTuple.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Optimization.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Antlr3.Runtime.pdb
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Newtonsoft.Json.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\obj\Debug\RdlCompile.cache
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\obj\Debug\RdlCompile.compiled
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\obj\Debug\SCE.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\obj\Debug\SCE.pdb
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Chart.Mvc.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Helpers.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Mvc.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Razor.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.Razor.dll
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Chart.Mvc.pdb
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\Chart.Mvc.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Helpers.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Mvc.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.Razor.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\bin\System.Web.WebPages.Razor.xml
+C:\Users\yrvinb\Desktop\bkp SCE 23 10 2018\SCE\SCE\obj\Debug\SCE.csprojResolveAssemblyReference.cache
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\obj\Debug\RdlCompile.cache
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\obj\Debug\RdlCompile.compiled
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\obj\Debug\SCE.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\obj\Debug\SCE.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\ApplicationInsights.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\csc.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\vbc.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\SCE.dll.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\SCE.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\SCE.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Antlr3.Runtime.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Chart.Mvc.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework.SqlServer.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework6.Npgsql.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\itextsharp.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.Web.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Newtonsoft.Json.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Npgsql.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.ValueTuple.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Helpers.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Mvc.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Optimization.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Razor.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.Razor.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\WebGrease.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.SqlServer.Types.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Chart.Mvc.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Chart.Mvc.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework.SqlServer.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\EntityFramework6.Npgsql.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.Web.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Newtonsoft.Json.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Npgsql.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Npgsql.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.ValueTuple.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Helpers.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Mvc.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Razor.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.WebPages.Razor.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\System.Web.Optimization.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Antlr3.Runtime.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\SCE\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\ApplicationInsights.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\csc.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\vbc.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\SCE.dll.config
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\SCE.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\SCE.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Antlr3.Runtime.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Chart.Mvc.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework.SqlServer.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework6.Npgsql.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.Web.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Newtonsoft.Json.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Npgsql.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.ValueTuple.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Helpers.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Mvc.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Optimization.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Razor.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.Razor.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\WebGrease.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Chart.Mvc.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Chart.Mvc.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework.SqlServer.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\EntityFramework6.Npgsql.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.Web.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Newtonsoft.Json.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Npgsql.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Npgsql.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.ValueTuple.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Helpers.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Mvc.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Razor.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.WebPages.Razor.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\System.Web.Optimization.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Antlr3.Runtime.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\obj\Debug\RdlCompile.cache
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\obj\Debug\RdlCompile.compiled
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\obj\Debug\SCE.dll
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\obj\Debug\SCE.pdb
+C:\Users\yrvinb\Documents\ProjetosOficial\SCE\Homolog\SCE\SCE\obj\Debug\SCE.csprojResolveAssemblyReference.cache

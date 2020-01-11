@@ -1,0 +1,211 @@
+﻿ 
+ Grid usando uma tabela
+ 
+ <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th scope="col"></th>
+                                    <th scope="col"></th>
+                                    <th scope="col"></th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="table-active">
+                                    <td>
+                                        <asp:Button ID="TotalMovementsByPortButton" runat="server" Text="Total Movements by Port" Width="200px" OnClick="TotalMovementsByPortButton_Click" />
+                                        <asp:ImageButton ID="TotalMovementsByPortExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="TotalMovementsByPortExcelButton_Click" />
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="SummaryPerDischargePortButton" runat="server" Text="Summary per Discharge Port" Width="200px" OnClick="SummaryPerDischargePortButton_Click" />
+                                        <asp:ImageButton ID="SummaryPerDischargePortExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryPerDischargePortExcelButton_Click" />
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="ShipperCneeByPortPairsButton" runat="server" Text="Shipper - Cnee by port pair" Width="200px" OnClick="ShipperCneeByPortPairsButton_Click" />
+                                        <asp:ImageButton ID="ShipperCneeByPortPairsExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ShipperCneeByPortPairsExcelButton_Click" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="SumarryServiceButton" runat="server" Text="Summary - Service" Width="200px" OnClick="SumarryServiceButton_Click" OnClientClick="progress()" />
+                                        <asp:ImageButton ID="SumarryServiceExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SumarryServiceExcelButton_Click" />
+                                        <asp:ImageButton ID="SummaryServiceGraphics" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('SummaryServiceGraphic', 'Summary Service')" OnClick="SummaryServiceGraphics_Click" />
+
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="SummaryCarrierButton" runat="server" Text="Summary - Carrier" Width="200px" OnClick="SummaryCarrierButton_Click" />
+                                        <asp:ImageButton ID="SummaryCarrierExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryCarrierExcelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="CneeShipperByPortPairButton" runat="server" Text="Cnee Shipper by port pair" Width="200px" OnClick="CneeShipperByPortPairButton_Click" />
+                                        <asp:ImageButton ID="CneeShipperByPortPairExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CneeShipperByPortPairExcelButton_Click" />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="SummaryAreaButton" runat="server" Text="Summary - Area" Width="200px" OnClick="SummaryAreaButton_Click" />
+                                        <asp:ImageButton ID="SummaryAreaExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryAreaExcelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="DetailedPerContainerButton" runat="server" Text="Detailed per Container" Width="200px" OnClick="DetailedPerContainerButton_Click" />
+                                        <asp:ImageButton ID="DetailedPerContainerExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="DetailedPerContainerExcelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="ClientCneeButton" runat="server" Text="Client - Cnee" Width="200px" OnClick="ClientCneeButton_Click" />
+                                        <asp:ImageButton ID="ClientCneeExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ClientCneeExcelButton_Click1" />
+
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="SummaryRakingButton" runat="server" Text="Summary - Ranking" Width="200px" OnClick="SummaryRakingButton_Click" />
+                                        <asp:ImageButton ID="SummaryRakingExecelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryRakingExecelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="DetailedPerClientButton" runat="server" Text="Detailed per Client" Width="200px" OnClick="DetailedPerClientButton_Click" />
+                                        <asp:ImageButton ID="DetailedPerExcelClientButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="DetailedPerExcelClientButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="CneeClientButton" runat="server" Text="Cnee Client" Width="200px" OnClick="CneeClientButton_Click" />
+                                        <asp:ImageButton ID="CneeClientExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CneeClientExcelButton_Click" />
+
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="StatsPerContainerAreaButton" runat="server" Text="Stats per Container / Area" Width="200px" OnClick="StatsPerContainerAreaButton_Click" />
+                                        <asp:ImageButton ID="StatsPerContainerAreaExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="StatsPerContainerAreaExcelButton_Click" />
+                                        <asp:ImageButton ID="StatsPerContainerAreaGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('StatsPerContainerAreaGraphics', 'StatsPer Container Area ')" OnClick="StatsPerContainerAreaGraphic_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="TypeContainerForeignPortButton" runat="server" Text="Type Container - Foreign Port" Width="200px" OnClick="TypeContainerForeignPortButton_Click" />
+                                        <asp:ImageButton ID="TypeContainerForeignPortExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="TypeContainerForeignPortExcelButton_Click" />
+                                        <asp:ImageButton ID="TypeContainerForeignPortGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('TypeContainerForeignPortGraphics', 'Type Container ForeignPort')" OnClick="TypeContainerForeignPortGraphic_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="ClientAreaButton" runat="server" Text="Client Area" Width="200px" OnClick="ClientAreaButton_Click" />
+                                        <asp:ImageButton ID="ClientAreaExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ClientAreaExcelButton_Click" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="StatsPerContainerCarrierButton" runat="server" Text="Stats Per Container / Carrier" Width="200px" OnClick="StatsPerContainerCarrierButton_Click" />
+                                        <asp:ImageButton ID="StatsPerContainerExcelCarrierButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="StatsPerContainerExcelCarrierButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="CarrierClientButton" runat="server" Text="Carrier - Client" Width="200px" OnClick="CarrierClientButton_Click" />
+                                        <asp:ImageButton ID="CarrierClientExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CarrierClientExcelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="ClientSrepButton" runat="server" Text="Client - Srep" Width="200px" OnClick="ClientSrepButton_Click" />
+                                        <asp:ImageButton ID="ClientSrepExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ClientSrepExcelButton_Click" />
+                                        <asp:ImageButton ID="ClientSrepGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('ClientSrepGraphics', 'Client Srep ')" OnClick="ClientSrepGraphic_Click" />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="RankingServiceButton" runat="server" Text="Ranking - Service" Width="200px" OnClick="RankingServiceButton_Click" />
+                                        <asp:ImageButton ID="RankingServiceExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="RankingServiceExcelButton_Click" />
+                                        <asp:ImageButton ID="RankingServiceGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('RankingServiceGraphics', 'Ranking Service')" OnClick="RankingServiceGraphic_Click" />
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="CarrierCommodityButton" runat="server" Text="Carrier - Commodity" Width="200px" OnClick="CarrierCommodityButton_Click" />
+                                        <asp:ImageButton ID="CarrierCommoditExcelyButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CarrierCommoditExcelyButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="FollowUpReportButton" runat="server" Text="Follow up - Clientes" Width="200px" OnClick="FollowUpReportButton_Click" />
+                                        <asp:ImageButton ID="FollowUpReportExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="FollowUpReportExcelButton_Click" />
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="RankingServiceByAreaButton" runat="server" Text="Ranking - Service By Area" Width="200px" OnClick="RankingServiceByAreaButton_Click" />
+                                        <asp:ImageButton ID="RankingServiceByExcelAreaButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="RankingServiceByExcelAreaButton_Click" />
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="CarrierVasselButton" runat="server" Text="Carrier - Vassel" Width="200px" OnClick="CarrierVasselButton_Click" />
+                                        <asp:ImageButton ID="CarrierVasselExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CarrierVasselExcelButton_Click" />
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="SummaryPortsButton" runat="server" Text="Summary - port" Width="200px" OnClick="SummaryPortsButton_Click" />
+                                        <asp:ImageButton ID="SummaryPortsExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryPortsExcelButton_Click" />
+                                        <asp:ImageButton ID="SummaryPortsGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('SummaryPortsGraphics', 'Summary Ports')" OnClick="SummaryPortsGraphic_Click" />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="SummaryBrazilButton" runat="server" Text="Summary - Brazil" Width="200px" OnClick="SummaryBrazilButton_Click" />
+                                        <asp:ImageButton ID="SummaryBrazilExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryBrazilExcelButton_Click" />
+                                        <asp:ImageButton ID="SummaryBrazilExcelGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('SummaryBrazilExcelGraphics', 'Summary Brazil')" OnClick="SummaryBrazilExcelGraphic_Click" />
+
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="CommodityAreaButton" runat="server" Text="Commodity - Area" Width="200px" OnClick="CommodityAreaButton_Click" />
+                                        <asp:ImageButton ID="CommodityAreaExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="CommodityAreaExcelButton_Click" />
+
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="SummaryCountriesButton" runat="server" Text="Summary Countries" Width="200px" OnClick="SummaryCountriesButton_Click" />
+                                        <asp:ImageButton ID="SummaryCountriesExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryCountriesExcelButton_Click" />
+                                        <asp:ImageButton ID="SummaryCountriesGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('SummaryCountriesGraphics', 'Summary Countries ')" OnClick="SummaryCountriesGraphic_Click" />
+
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="SummaryClientButton" runat="server" Text="Summary- Client" Width="200px" OnClick="SummaryClientButton_Click" />
+                                        <asp:ImageButton ID="SummaryClientExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryClientExcelButton_Click" />
+
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="ForeignPortClientButton" runat="server" Text="Foreign Port - Client" Width="200px" OnClick="ForeignPortClientButton_Click" />
+                                        <asp:ImageButton ID="ForeignPortClientExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ForeignPortClientExcelButton_Click" />
+
+                                    </td>
+
+                                    <td>
+                                        <asp:Button ID="SummaryClientMonthButton" runat="server" Text="Summary Client Month" Width="200px" OnClick="SummaryClientMonthButton_Click" />
+                                        <asp:ImageButton ID="SummaryClientMonthExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="SummaryClientMonthExcelButton_Click" />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <asp:Button ID="RankingCommodityButton" runat="server" Text="Ranking - Commodity" Width="200px" OnClick="RankingCommodityButton_Click" />
+                                        <asp:ImageButton ID="RankingCommodityExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="RankingCommodityExcelButton_Click" />
+                                        <asp:ImageButton ID="RankingCommodityGraphic" runat="server" Height="25" ImageUrl="Content/Img/IconPie.png" OnClientClick="Graphics_Click('RankingCommodityGraphics', 'Ranking Commodit')" OnClick="RankingCommodityGraphic_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="ForeignPortCarrierButton" runat="server" Text="Foreign Port - Carrier" Width="200px" OnClick="ForeignPortCarrierButton_Click" />
+                                        <asp:ImageButton ID="ForeignPortCarrierExcelButton" runat="server" Height="25" ImageUrl="Content/Img/iconsExcel.png" OnClick="ForeignPortCarrierExcelButton_Click" />
+
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="GraphicButton" runat="server" Text="Graphic" Width="200px" OnClick="GraphicButton_Click" Visible="false" />
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>

@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SCE.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="Content/style.css" rel="stylesheet" />
+    <title>-Sce</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/SCEIcon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="description" content="The description of my page" />
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">SCE<span class="glyphicon glyphicon-signal"></span></a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="menu-item">
+                            <span class="menu-link">
+                                <asp:Literal runat="server" Text="Formularios" />
+                            </span>
+                            <ul class="no-bullet menu-sub">
+                                <li class="menu-sub-item"><a runat="server" href="~/Form" class="menu-sub-link">
+                                    <asp:Literal runat="server" Text="Market Statistc" /></a></li>
+                                <li class="menu-sub-item"><a runat="server" href="~/FormEmc" class="menu-sub-link">
+                                    <asp:Literal runat="server" Text="EMC Manifest" /></a></li>
+                            </ul>
+                        </li>
+                        <li><a runat="server" target="_blank" href="http://www.grieg.com.br/chamados/">Chamados</a></li>
+                        <li><a runat="server" href="~/Help">Ajuda</a></li>
+                    </ul>
+                    <p class="nav navbar-text navbar-right "><a href="http://www.grieg.com.br" style="color: #999999">Sair</a></p>
+                    <p class="nav navbar-text navbar-right">Ola,
+                        <asp:Label ID="NomeUser" runat="server" Text="Label"></asp:Label></p>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <div class="navbar   navbar-bottom">
+                    <div class="container">
+                        <p class="navbar-text pull-left" style="font-size: 14px">&copy; <%: DateTime.Now.Year %> -Todos os direitos reservados </p>
+
+                        <img class="pull-right" height="20" width="20" src="Content/Img/IconIE.png" />
+                        <span class="pull-right" style="font-size: 14px"><span style="font-size: 12px">V1.1 </span>Recomendado</span>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <script src="Scripts/pace.min.js"></script>
+    </form>
+</body>
+</html>
